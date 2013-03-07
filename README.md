@@ -10,7 +10,7 @@ A tool for analyzing search word data from Google Analytics.
 
 ## Installation
 	gem install bundler
-	cd ../search-words
+	cd ../SearchWords
 	bundle
 	
 	# To start up the server
